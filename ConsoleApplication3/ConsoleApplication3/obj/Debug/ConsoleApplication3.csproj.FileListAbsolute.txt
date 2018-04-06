@@ -1,0 +1,7 @@
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\RocketMq(.net)\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
