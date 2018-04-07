@@ -1,0 +1,23 @@
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe.config
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.pdb
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.dll
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.pdb
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.exe
+C:\Users\pramo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.pdb
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe.config
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.exe
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.pdb
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.pdb
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.dll
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.pdb
+C:\Users\roop\Documents\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe.config
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.exe
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ConsoleApplication3.pdb
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.dll
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\bin\x64\Debug\ManagedONS.pdb
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.exe
+F:\RocketMq(.net)\rocketmq\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3\obj\x64\Debug\ConsoleApplication3.pdb
